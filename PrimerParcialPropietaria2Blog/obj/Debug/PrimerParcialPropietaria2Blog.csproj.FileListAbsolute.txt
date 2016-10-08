@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\PrimerParcialPropietaria2Blog\PrimerParcialPropietaria2Blog\bin\PrimerParcialPropietaria2Blog.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\PrimerParcialPropietaria2Blog\PrimerParcialPropietaria2Blog\bin\PrimerParcialPropietaria2Blog.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PrimerParcialPropietaria2Blog\PrimerParcialPropietaria2Blog\bin\PrimerParcialPropietaria2Blog.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\PrimerParcialPropietaria2Blog\PrimerParcialPropietaria2Blog\obj\Debug\PrimerParcialPropietaria2Blog.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\PrimerParcialPropietaria2Blog\PrimerParcialPropietaria2Blog\obj\Debug\PrimerParcialPropietaria2Blog.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PrimerParcialPropietaria2Blog\PrimerParcialPropietaria2Blog\obj\Debug\PrimerParcialPropietaria2Blog.pdb
